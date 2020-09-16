@@ -6,4 +6,4 @@ I chose to do TASK 4 and have successfully completed it. I chose this task mostl
 
 Thank you for creating this opportunity!
 
-nbviewer [https://nbviewer.jupyter.org/github/kunalsinha9/QOSF-Screening-Task/blob/master/VQE-Pennylane.ipynb]
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/kunalsinha9/QOSF-Screening-Task/blob/master/VQE-Pennylane.ipynb)
